@@ -199,9 +199,20 @@ Hereda de Persona:
   "estado": true
 }
 ```
-## 🗄️ Base de Datos
 
-Se debe generar un script SQL con la estructura completa de la base de datos:
 
-```sql
-BaseDatos.sql
+## DOCUMENTACION CON SWAGGER
+
+### Cliente
+
+http://localhost:8080/swagger-ui/index.html#/
+<img width="1899" height="848" alt="image" src="https://github.com/user-attachments/assets/517a5627-4219-4a76-9bf2-d60089397c20" />
+
+## PRUEBAS UNITARIAS 
+
+### Cliente
+http://localhost:63342/cliente-service/target/site/jacoco/com.devsu.cliente.application/index.html
+<img width="731" height="227" alt="image" src="https://github.com/user-attachments/assets/10ba8304-0516-48af-b118-85a94e8bcf78" />
+
+
+
